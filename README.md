@@ -1,2 +1,2 @@
-# Experimentation | How Github is used
+# Experimentation | Learning to use Gitub
 
